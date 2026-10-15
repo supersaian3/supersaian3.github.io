@@ -1,0 +1,36 @@
+THE MUSEUM OF ME — 오디오 폴더
+==============================
+
+이 폴더에 아래 파일을 넣으면 사운드 컨트롤이 활성화됩니다.
+
+  gallery-ambience.mp3
+
+파일이 없으면?
+--------------
+사이트는 그대로 동작합니다. 사운드 버튼이 비활성(NO SOUND) 상태가 되고
+"Soundtrack can be added later" 안내만 표시됩니다. 오류 팝업은 없습니다.
+
+권장 사양
+---------
+- 형식: MP3 (128~192kbps) — 브라우저 호환성이 가장 좋습니다.
+- 길이: 2~5분, 이어 붙여 반복(loop)해도 어색하지 않게
+- 음량: 기본 재생 음량이 18%로 설정되어 있습니다 (script.js 의 CONFIG.defaultVolume)
+- 음압: 피크를 -6dB 정도로 낮게. 글을 읽는 동안 배경에 머물러야 합니다.
+
+음악 방향 (생성 도구나 작곡에 사용할 브리프)
+--------------------------------------------
+Create a quiet, refined ambient soundtrack for a contemporary personal museum
+website. Use sparse felt piano notes, warm sustained pads, subtle string
+harmonics, and spacious natural reverb. The feeling should be contemplative,
+intimate, curious, and quietly human - as if entering a small, beautifully
+curated art gallery after closing hours. Slow tempo, no vocals, no drums, no
+cinematic booms, no epic orchestral climax, no recognizable melodies from
+existing films or games. Keep the mix soft and unobtrusive so visitors can read
+exhibit descriptions comfortably. Make it seamless and loopable for a web
+experience.
+
+권리 확인 (공개 배포 전 필수)
+-----------------------------
+직접 제작한 음원, 또는 웹사이트 사용이 허용된 라이선스 음원만 사용하세요.
+사용한 음원의 출처와 라이선스는 프로젝트 루트의 README.md "음악" 항목에
+기록해 두세요. 영화·게임 OST 등 라이선스가 불분명한 상업 음원은 넣지 마세요.
